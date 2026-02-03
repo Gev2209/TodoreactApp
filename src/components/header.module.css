@@ -1,0 +1,10 @@
+.header {
+    background: #735300;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 800;
+}
